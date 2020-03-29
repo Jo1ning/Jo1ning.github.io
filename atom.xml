@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>这是蒸的</title>
+  
+  <subtitle>This is real</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-29T14:26:31.694Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>real</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Beginning</title>
+    <link href="http://yoursite.com/2020/03/29/Beginning/"/>
+    <id>http://yoursite.com/2020/03/29/Beginning/</id>
+    <published>2020-03-29T14:10:11.000Z</published>
+    <updated>2020-03-29T14:26:31.694Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;​    It was the best of times, it was the worst of times, &lt;/p&gt;
+&lt;p&gt;​    It was the age of wisdom, it was the age of foolishness,
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="^^" scheme="http://yoursite.com/tags//"/>
+    
+  </entry>
+  
+</feed>
