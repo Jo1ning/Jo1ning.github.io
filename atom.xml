@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-29T14:26:31.694Z</updated>
+  <updated>2020-04-06T15:02:19.949Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>入门01</title>
+    <link href="http://yoursite.com/2020/04/06/%E5%85%A5%E9%97%A801/"/>
+    <id>http://yoursite.com/2020/04/06/%E5%85%A5%E9%97%A801/</id>
+    <published>2020-04-06T14:13:35.283Z</published>
+    <updated>2020-04-06T15:02:19.949Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;王道训练营day01&lt;/p&gt;
+&lt;p&gt;一.打开“环境变量”&lt;/p&gt;
+&lt;p&gt;1.在Windows下：&lt;/p&gt;
+&lt;p&gt;①键Windows+R，弹出如下窗口：&lt;/p&gt;
+&lt;img src=&quot;/Users/ginger/blog/source/pictures/入门01_pic01&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Beginning</title>
