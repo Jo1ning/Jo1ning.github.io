@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-07T03:09:05.308Z</updated>
+  <updated>2020-04-07T03:11:14.173Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>入门_01</title>
+    <link href="http://yoursite.com/2020/04/07/%E5%85%A5%E9%97%A8-01/"/>
+    <id>http://yoursite.com/2020/04/07/%E5%85%A5%E9%97%A8-01/</id>
+    <published>2020-04-07T03:11:14.000Z</published>
+    <updated>2020-04-07T03:11:14.173Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>入门01</title>
     <link href="http://yoursite.com/2020/04/06/%E5%85%A5%E9%97%A801/"/>
     <id>http://yoursite.com/2020/04/06/%E5%85%A5%E9%97%A801/</id>
     <published>2020-04-06T14:13:35.283Z</published>
-    <updated>2020-04-07T03:09:05.308Z</updated>
+    <updated>2020-04-07T03:21:19.713Z</updated>
     
     <summary type="html">
     
@@ -33,7 +48,7 @@
 &lt;p&gt;一.打开“环境变量”&lt;/p&gt;
 &lt;p&gt;1.在Windows下：&lt;/p&gt;
 &lt;p&gt;①键Windows+R，弹出如下窗口：&lt;/p&gt;
-&lt;img
+&lt;p&gt;&lt;img
         
       
     
