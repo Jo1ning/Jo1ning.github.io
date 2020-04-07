@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>hexo 本地图片不显示</title>
+    <url>/2020/04/07/hexo-%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E4%B8%8D%E6%98%BE%E7%A4%BA/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>入门01</title>
     <url>/2020/04/06/%E5%85%A5%E9%97%A801/</url>
     <content><![CDATA[<p>王道训练营day01</p>
 <p>一.打开“环境变量”</p>
 <p>1.在Windows下：</p>
 <p>①键Windows+R，弹出如下窗口：</p>
-<img src="/Users/ginger/blog/source/pictures/入门01_pic01.png" alt="入门01_pic01" style="zoom:50%;" />
+<img src="/2020/04/06/%E5%85%A5%E9%97%A801/ginger/blog/source/pictures/入门01_pic01.png" alt="入门01_pic01" style="zoom:50%;">
 
 <p>②输入“sysdm.cpl”，弹出如下窗口：</p>
 <p>③——&gt;高级——&gt;环境变量</p>
-<img src="/Users/ginger/blog/source/pictures/入门01_pic02.png" alt="入门01_pic02" style="zoom:50%;" />
+<img src="/2020/04/06/%E5%85%A5%E9%97%A801/ginger/blog/source/pictures/入门01_pic02.png" alt="入门01_pic02" style="zoom:50%;">
 
 <p>2.在macOS下：</p>
 <p>①打开终端，输入“sudo vi ~/.bash_profile”，输入密码,</p>
-<img src="/Users/ginger/blog/source/pictures/入门01_pic03.JPG" alt="入门01_pic03" style="zoom:45%;" />
+<img src="/2020/04/06/%E5%85%A5%E9%97%A801/ginger/blog/source/pictures/入门01_pic03.JPG" alt="入门01_pic03" style="zoom:45%;">
 
-<p>②输入密码，回车后显示：<img src="/Users/ginger/blog/source/pictures/入门01_pic04.png" alt="入门01_pic04" style="zoom:50%;" /></p>
+<p>②输入密码，回车后显示：<img src="/2020/04/06/%E5%85%A5%E9%97%A801/ginger/blog/source/pictures/入门01_pic04.png" alt="入门01_pic04" style="zoom:50%;"></p>
 <p>③再回一次车就进入了；</p>
-<p>修改完环境变量，保存时，输入wq<span style='color:red'>!</span> （记得带感叹号）</p>
+<p>修改完环境变量，保存时，输入wq<span style="color:red">!</span> （记得带感叹号）</p>
 <p>ps:如果输入wq会报错，如下图：</p>
-<img src="/Users/ginger/blog/source/pictures/入门01_pic05.png" alt="入门01_pic05" style="zoom:50%;" />
+<img src="/2020/04/06/%E5%85%A5%E9%97%A801/ginger/blog/source/pictures/入门01_pic05.png" alt="入门01_pic05" style="zoom:50%;">
 
 <p>2.</p>
 <p>【 jdk8下，终端编译运行java 】</p>
