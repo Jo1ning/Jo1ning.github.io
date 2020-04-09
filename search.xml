@@ -13,29 +13,7 @@
 <p>一.打开“环境变量”</p>
 <p>1.在Windows下：</p>
 <p>①键Windows+R，弹出如下窗口：</p>
-<img src="/2020/04/06/%E5%85%A5%E9%97%A801/%E5%85%A5%E9%97%A801_pic01.jpg" class title="% style:zoom&#x3D;30%} ②输入“sysdm.cpl”，弹出如下窗口： ③——&gt;高级——&gt;环境变量 {% asset_img 入门01_pic02.jpg">
-
-<p>2.在macOS下：</p>
-<p>①打开终端，输入“sudo vi ~/.bash_profile”，输入密码,</p>
-<img src="/2020/04/06/%E5%85%A5%E9%97%A801/%E5%85%A5%E9%97%A801_pic03.jpg" class>
-
-<p>②输入密码，回车后显示：</p>
-<img src="/2020/04/06/%E5%85%A5%E9%97%A801/%E5%85%A5%E9%97%A801_pic04.jpg" class>
-
-<p>③再回一次车就进入了；</p>
-<p>修改完环境变量，保存时，输入wq<span style="color:red">!</span> （记得带感叹号）</p>
-<p>ps:如果输入wq会报错，如下图：</p>
-<img src="/2020/04/06/%E5%85%A5%E9%97%A801/%E5%85%A5%E9%97%A801_pic05.jpg" class>
-
-<p>2.</p>
-<p>【 jdk8下，终端编译运行java 】</p>
-<p>①创建Vim name.java</p>
-<p>②编译javac name.java</p>
-<p>③运行Java name</p>
-<p>3.</p>
-<p>Java语言是跨平台的,有句话”一次编写,多处运行”讲就是Java的跨平台性。</p>
-<p>JVM，即Java虚拟机，它是Java跨平台的基础， 但JVM本身不是跨平台的。Java依赖于JVM，JVM给Java提供了运行环境，它需要在不同的操作系统上支持同样的Java程序运行,因而需要调和不同操作系统的不同特性,所以各平台的JVM应当是不相同的。</p>
-]]></content>
+<p><img src="/2020/04/06/%E5%85%A5%E9%97%A801/%E5%85%A5%E9%97%A801_pic01.jpg" class title="% style:”zoom&#x3D;30%”}&lt;&#x2F;p&gt; &lt;p&gt;②输入“sysdm.cpl”，弹出如下窗口：&lt;&#x2F;p&gt; &lt;p&gt;③——&gt;高级——&gt;环境变量&lt;&#x2F;p&gt; &lt;p&gt;{% asset_img 入门01_pic02.jpg %style:”zoom&#x3D;30”}&lt;&#x2F;p&gt; &lt;p&gt;2.在macOS下：&lt;&#x2F;p&gt; &lt;p&gt;①打开终端，输入“sudo vi ~&#x2F;.bash_profile”，输入密码,&lt;&#x2F;p&gt; &lt;p&gt;{% asset_img 入门01_pic03.jpg %style:”zoom&#x3D;30”}&lt;&#x2F;p&gt; &lt;p&gt;②输入密码，回车后显示：&lt;&#x2F;p&gt; &lt;p&gt;{% asset_img 入门01_pic04.jpg %style:”zoom&#x3D;30”}&lt;&#x2F;p&gt; &lt;p&gt;③再回一次车就进入了；&lt;&#x2F;p&gt; &lt;p&gt;修改完环境变量，保存时，输入wq&lt;span style&#x3D;color:red&gt;!&lt;&#x2F;span&gt; （记得带感叹号）&lt;&#x2F;p&gt; &lt;p&gt;ps:如果输入wq会报错，如下图：&lt;&#x2F;p&gt; &lt;p&gt;{% asset_img 入门01_pic05.jpg %style:”zoom&#x3D;30”}&lt;&#x2F;p&gt; &lt;p&gt;2.&lt;&#x2F;p&gt; &lt;p&gt;【 jdk8下，终端编译运行java 】&lt;&#x2F;p&gt; &lt;p&gt;①创建Vim name.java&lt;&#x2F;p&gt; &lt;p&gt;②编译javac name.java&lt;&#x2F;p&gt; &lt;p&gt;③运行Java name&lt;&#x2F;p&gt; &lt;p&gt;3.&lt;&#x2F;p&gt; &lt;p&gt;Java语言是跨平台的,有句话”一次编写,多处运行”讲就是Java的跨平台性。&lt;&#x2F;p&gt; &lt;p&gt;JVM，即Java虚拟机，它是Java跨平台的基础， 但JVM本身不是跨平台的。Java依赖于JVM，JVM给Java提供了运行环境，它需要在不同的操作系统上支持同样的Java程序运行,因而需要调和不同操作系统的不同特性,所以各平台的JVM应当是不相同的。&lt;&#x2F;p&gt;"></p>]]></content>
   </entry>
   <entry>
     <title>Beginning</title>
